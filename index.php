@@ -17,7 +17,7 @@ get_header();
                     </div> <!-- end of col -->
                     <div class="col-lg-6">
                         <div class="image-container">
-                            <img class="img-fluid" src="images/header-iphone.png" alt="alternative">
+                            <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/<?php echo get_template_directory_uri(); ?>/images/header-iphone.png" alt="alternative">
                         </div> <!-- end of image-container -->
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
@@ -41,7 +41,7 @@ get_header();
                                 <!-- Slide -->
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img class="card-image" src="images/testimonial-1.jpg" alt="alternative">
+                                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/images/testimonial-1.jpg" alt="alternative">
                                         <div class="card-body">
                                             <p class="testimonial-text">I just finished my trial period and was so amazed with the support and results that I purchased Leno.</p>
                                             <p class="testimonial-author">Jude Thorn - Designer</p>
@@ -53,7 +53,7 @@ get_header();
                                 <!-- Slide -->
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img class="card-image" src="images/testimonial-2.jpg" alt="alternative">
+                                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/images/testimonial-2.jpg" alt="alternative">
                                         <div class="card-body">
                                             <p class="testimonial-text">I don't know how I managed to get work done without Leno. The speed of this application is amazing!</p>
                                             <p class="testimonial-author">Roy Smith - Developer</p>
@@ -65,7 +65,7 @@ get_header();
                                 <!-- Slide -->
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img class="card-image" src="images/testimonial-3.jpg" alt="alternative">
+                                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/images/testimonial-3.jpg" alt="alternative">
                                         <div class="card-body">
                                             <p class="testimonial-text">This app has the potential of becoming a mandatory tool in every marketer's day to day operations.</p>
                                             <p class="testimonial-author">Marsha Singer - Marketer</p>
@@ -77,7 +77,7 @@ get_header();
                                 <!-- Slide -->
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img class="card-image" src="images/testimonial-4.jpg" alt="alternative">
+                                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/images/testimonial-4.jpg" alt="alternative">
                                         <div class="card-body">
                                             <p class="testimonial-text">Searching for a great marketing automation app was difficult but thankfully I found Leno.</p>
                                             <p class="testimonial-author">Tim Shaw - Designer</p>
@@ -89,7 +89,7 @@ get_header();
                                 <!-- Slide -->
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img class="card-image" src="images/testimonial-5.jpg" alt="alternative">
+                                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/images/testimonial-5.jpg" alt="alternative">
                                         <div class="card-body">
                                             <p class="testimonial-text">Leno's support team is amazing. They've helped me with some issues and I am so grateful to them.</p>
                                             <p class="testimonial-author">Lindsay Spice - Marketer</p>
@@ -101,7 +101,7 @@ get_header();
                                 <!-- Slide -->
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img class="card-image" src="images/testimonial-6.jpg" alt="alternative">
+                                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/images/testimonial-6.jpg" alt="alternative">
                                         <div class="card-body">
                                             <p class="testimonial-text">Who would have thought that Leno can provide such amazing results in just a few weeks of use</p>
                                             <p class="testimonial-author">Ann Black - Developer</p>
@@ -202,7 +202,7 @@ get_header();
 
                                 <!-- Image Pane -->
                                 <div class="col-lg-4">
-                                    <img class="img-fluid" src="images/features-iphone-1.png" alt="alternative">
+                                    <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/features-iphone-1.png" alt="alternative">
                                 </div>
                                 <!-- end of image pane -->
                                 
@@ -256,7 +256,7 @@ get_header();
 
                                 <!-- Image Pane -->
                                 <div class="col-md-4">
-                                    <img class="img-fluid" src="images/features-iphone-2.png" alt="alternative">
+                                    <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/features-iphone-2.png" alt="alternative">
                                 </div>
                                 <!-- end of image pane -->
                                 
@@ -368,7 +368,7 @@ get_header();
 
                                 <!-- Image Pane -->
                                 <div class="col-md-4">
-                                    <img class="img-fluid" src="images/features-iphone-3.png" alt="alternative">
+                                    <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/features-iphone-3.png" alt="alternative">
                                 </div>
                                 <!-- end of image pane -->
                                     
@@ -402,7 +402,7 @@ get_header();
                     <div class="image-container">
                         <div class="video-wrapper">
                             <a class="popup-youtube" href="https://www.youtube.com/watch?v=fLCjQJCekTs" data-effect="fadeIn">
-                                <img class="img-fluid" src="images/video-frame.jpg" alt="alternative">
+                                <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/video-frame.jpg" alt="alternative">
                                 <span class="video-play-button">
                                     <span></span>
                                 </span>
@@ -423,7 +423,7 @@ get_header();
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="images/details-1-iphone.png" alt="alternative">
+                    <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/details-1-iphone.png" alt="alternative">
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="text-container">
@@ -451,7 +451,7 @@ get_header();
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
                     <div class="col-lg-6">
-                        <img class="img-fluid" src="images/details-2-iphone.png" alt="alternative">
+                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/details-2-iphone.png" alt="alternative">
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
@@ -466,7 +466,7 @@ get_header();
 		<div class="row">
 			<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
 			<div class="col-lg-6">
-				<img class="img-fluid" src="images/details-lightbox-1.png" alt="alternative">
+				<img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/details-lightbox-1.png" alt="alternative">
 			</div>
 			<div class="col-lg-6">
 				<h3>Goals Setting</h3>
@@ -494,7 +494,7 @@ get_header();
 		<div class="row">
 			<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
 			<div class="col-lg-6">
-				<img class="img-fluid" src="images/details-lightbox-2.png" alt="alternative">
+				<img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/details-lightbox-2.png" alt="alternative">
 			</div>
 			<div class="col-lg-6">
 				<h3>Calendar Input</h3>
@@ -532,80 +532,80 @@ get_header();
                                 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-1.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-1.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-1.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-1.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
                                 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-2.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-2.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-2.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-2.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-3.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-3.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-3.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-3.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-4.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-4.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-4.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-4.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-5.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-5.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-5.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-5.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
                                 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-6.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-6.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-6.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-6.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-7.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-7.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-7.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-7.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-8.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-8.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-8.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-8.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-9.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-9.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-9.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-9.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-10.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-10.png" alt="alternative">
+                                    <a href="<?php echo get_template_directory_uri(); ?>/images/screenshot-10.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/screenshot-10.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
@@ -642,7 +642,7 @@ get_header();
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/download.png" alt="alternative">
+                        <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/download.png" alt="alternative">
                     </div> <!-- end of img-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->

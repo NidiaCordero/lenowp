@@ -23,14 +23,14 @@
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/fontawesome-all.css" rel="stylesheet">
-    <link href="css/swiper.css" rel="stylesheet">
-	<link href="css/magnific-popup.css" rel="stylesheet">
-	<link href="css/styles.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/fontawesome-all.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/swiper.css" rel="stylesheet">
+	<link href="<?php echo get_template_directory_uri(); ?>/css/magnific-popup.css" rel="stylesheet">
+	<link href="<?php echo get_template_directory_uri(); ?>/css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="images/favicon.png">
+    <link rel="icon" href="<?php echo get_template_directory_uri(); ?>/images/favicon.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -51,7 +51,7 @@
         <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Leno</a> -->
 
         <!-- Image Logo -->
-        <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> 
+        <a class="navbar-brand logo-image" href="index.html"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.svg" alt="alternative"></a> 
         
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
