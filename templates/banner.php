@@ -6,9 +6,9 @@
                     <div class="col-lg-6">
                         <div class="text-container">
                             <!-- <h1>MOBILE APP <br>FOR <span id="js-rotating">DESIGNERS, MARKETERS, DEVELOPERS</span></h1> -->
-                            <h1 class="text-uppercase mb-0"><?php echo get_bloginfo('name'); ?></h1>
-                            <h2 class="font-weight-light mb-0"><?php echo get_bloginfo('description'); ?></h2>
-                            <p class="p-large">Leno is one of the easiest and feature packed marketing automation apps in the market. Download it today!</p>
+                            <h1> MOBILE APP <br>FOR <span id="js-rotating"> <?php echo get_bloginfo('name'); ?> </span></h1>
+                            <h2 class="p-large "><?php echo get_bloginfo('description'); ?></h2>
+                            <!-- <p class="p-large">Leno is one of the easiest and feature packed marketing automation apps in the market. Download it today!</p> -->
                             <a class="btn-solid-lg page-scroll" href="#your-link"><i class="fab fa-apple"></i>APP STORE</a>
                             <a class="btn-solid-lg page-scroll" href="#your-link"><i class="fab fa-google-play"></i>PLAY STORE</a>
                         </div>
