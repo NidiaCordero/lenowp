@@ -9,15 +9,7 @@ get_template_part('templates/screenshot');
 get_template_part('templates/download');
 get_template_part('templates/statics');
 get_template_part('templates/contact');
- 	?>
 
-
-    
-
-
-
-
-    <?php
 
 get_footer();
  	?> 
